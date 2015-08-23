@@ -1,0 +1,1 @@
+Open Code.ino with Arduino IDE, it will take care of the rest.
